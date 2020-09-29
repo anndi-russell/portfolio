@@ -18,5 +18,11 @@
 <p style="text-indent: 40px">Skills displayed: Data cleaning (mapping values, downsampling majority class), tokenize documents, grid search for hyperparameters, build streaming SGD model, simple webpage creation.
 </p>
 
+<li>Project03</li>
+<p>
+<p style="text-indent: 40px">The goal of this project was to predict the happiness level of a person's country of residence based on their answer to a variety of survey questions regarding their world-view.
+<p style="text-indent: 40px">Skills displayed: Data cleaning, data exploration, feature creation, xgboost model building and interpretation.
+</p>
+
 <br>
 
