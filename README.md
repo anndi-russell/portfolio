@@ -5,7 +5,7 @@
 <br>
 
 <h3>Here is a brief summary of the projects included in this portfolio:</h3>
-<li>Capstone (Updated 9/14/20)</li>
+<li>Capstone (Updated 12/7/20)</li>
 <p>
 <p style="text-indent: 40px">The goal of my capstone project is to explore whether we can predict the vote of a supreme court justice by performing natural language processing sentiment analysis on the transcripts of the oral arguments. The final PowerPoint presentation and report are included, along with the code notebooks. The notebooks are labeled according to the order in which they are used in the sequence. Here are brief descriptions of each notebook>:
 
