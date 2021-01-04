@@ -1,6 +1,9 @@
+
+
+<p>Anndi Russell, MS in Data Science.</p>
 <h1>Hello!</h1>
 
-<p>I am a job-seeking data science master's student, set to graduate December 2020.</p>
+<p>I am a job-seeking recent graduate of the University of Denver's Masters in Data Science Program. Please reach out if you'd like to discuss any aspect of my portfolio or my qualifications as a job candidate.</p>
 
 <br>
 
