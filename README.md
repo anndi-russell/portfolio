@@ -8,7 +8,7 @@
 <br>
 
 <h3>Here is a brief summary of the projects included in this portfolio:</h3>
-<li>Capstone (Updated 12/7/20)</li>
+<li><b>Capstone (Updated 12/7/20)</b></li>
 <p>
 <p style="text-indent: 40px">The goal of my capstone project is to explore whether we can predict the vote of a supreme court justice by performing natural language processing sentiment analysis on the transcripts of the oral arguments. The final PowerPoint presentation and report are included, along with the code notebooks. The notebooks are labeled according to the order in which they are used in the sequence. Here are brief descriptions of each notebook>:
 
@@ -24,19 +24,19 @@
 
 
 
-<li>Project01</li>
+<li><b>Project01</b></li>
 <p>
 <p style="text-indent: 40px">In this project, I implemented three algorithms (logistic regression, decision trees, k-nearest neighbors) and compared their performance when predicting whether a dog would be adopted within a week from the Austin Animal Shelter.
 <p style="text-indent: 40px">Skills displayed: Data cleaning (merging data, string manipulation, dealing with missing values), data exploration and visualization, feature selection using random forests, model implementation and interpretation.
 </p>
 
-<li>Project02</li>
+<li><b>Project02</b></li>
 <p>
 <p style="text-indent: 40px">The goal of this project was to perform sentiment analysis on Amazon product reviews and create a simple webpage so a user can provide live feedback for model improvement.
 <p style="text-indent: 40px">Skills displayed: Data cleaning (mapping values, downsampling majority class), tokenize documents, grid search for hyperparameters, build streaming SGD model, simple webpage creation.
 </p>
 
-<li>Project03</li>
+<li><b>Project03</b></li>
 <p>
 <p style="text-indent: 40px">The goal of this project was to predict the happiness level of a person's country of residence based on their answer to a variety of survey questions regarding their world-view.
 <p style="text-indent: 40px">Skills displayed: Data cleaning, data exploration, feature creation, xgboost model building and interpretation.
