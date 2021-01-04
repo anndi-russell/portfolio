@@ -1,7 +1,7 @@
 
 
-<p>Anndi Russell, MS in Data Science.</p>
-<h1>Hello!</h1>
+<h1>Anndi Russell, MS in Data Science</h1>
+<h3>Hello!</h3>
 
 <p>I am a job-seeking recent graduate of the University of Denver's Masters in Data Science Program. Please reach out if you'd like to discuss any aspect of my portfolio or my qualifications as a job candidate.</p>
 
