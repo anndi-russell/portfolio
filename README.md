@@ -3,7 +3,7 @@
 <h1>Anndi Russell, MS in Data Science</h1>
 <h3>Hello!</h3>
 
-<p>I am a Data Scientist with 4 years of professional data science experience, a master's in data science, and several years of professional experience in education and nonprofit roles prior to my data science career. Most recently I served as Principal Data Scientist at Luminosity, focusing on pretrial criminal justice research and analytics.</p>
+<p>I am a Data Scientist with over 4 years of professional data science experience, a master's in data science, and several years of professional experience in education and nonprofit roles prior to my data science career. I served as Principal Data Scientist at Luminosity for 4 years, focusing on pretrial criminal justice research and analytics. I have recently returned on a part-time basis focused on specific projects.</p>
 
 <br>
 
