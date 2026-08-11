@@ -5,6 +5,8 @@
 
 <p>I am a Data Scientist with over 4 years of professional data science experience, a master's in data science, and several years of professional experience in education and nonprofit roles prior to my data science career. I served as Principal Data Scientist at Luminosity for 4 years, focusing on pretrial criminal justice research and analytics. I have recently returned on a part-time basis focused on specific projects.</p>
 
+<p>My professional work is protected by confidentiality, and I do not update this page with new projects. The projects shown here are from my MS coursework. I am always happy to provide specific work samples upon request.</p>
+
 <br>
 
 <h3>Here is a brief summary of the projects included in this portfolio:</h3>
